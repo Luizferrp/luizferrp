@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently studying computer science in PUCPR
-- 🤔 I’m looking for help with anythink
+- 🪖 ex-CMC
+- 🐍 libertário
+- 👨‍💻 Desenvolvedor by:
+- 🎓 PUCPR - ciencia da computação
 <!--
 **Luizferrp/luizferrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
