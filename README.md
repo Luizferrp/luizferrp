@@ -3,6 +3,7 @@
 - 🐍 libertário
 - 👨‍💻 Desenvolvedor by:
 - 🎓 PUCPR - ciencia da computação
+- 📧 luizfernando.reis@icloud.com
 <!--
 **Luizferrp/luizferrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
