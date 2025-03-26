@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🪖 ex-CMC
-- 🐍 libertarian
-- 👨‍💻 developer by:
-- 🎓 PUCPR - computer science
+
+I'm 
+developer by:
+ - PUCPR : computer science
+ex-CMC 🪖 && ˗ˏˋ ✞ ˎˊ˗  
+
 <!--
 **Luizferrp/luizferrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
